@@ -8,6 +8,10 @@ Welcome to the Awesome Tools || Platforms repository. This repository contains a
 
 - [Streamlit](https://streamlit.io/generative-ai?ref=blog.streamlit.io) Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful, performant apps with just a few lines of code. All in pure Python. All for free.
 
+## Speed test
+
+- [Dotcom Tool](https://www.dotcom-tools.com/)
+
 ## Uncategory
 
 - [Zipkin](https://zipkin.io/) tracing tools
