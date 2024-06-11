@@ -12,6 +12,10 @@ Welcome to the Awesome Tools || Platforms repository. This repository contains a
 
 - [Dotcom Tool](https://www.dotcom-tools.com/)
 
+## Tunel
+
+- [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+
 ## Uncategory
 
 - [Zipkin](https://zipkin.io/) tracing tools
