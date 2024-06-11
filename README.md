@@ -15,3 +15,4 @@ Welcome to the Awesome Tools || Platforms repository. This repository contains a
 ## Uncategory
 
 - [Zipkin](https://zipkin.io/) tracing tools
+- [Video Tutorials - FreeFileSync](https://freefilesync.org/tutorials.php) FreeFileSync works by comparing one or multiple folders on their content, date or file size and subsequently synchronizing the content according to user-defined settings. In addition to supporting local file systems and network shares, FreeFileSync is able to sync to Google Drive, FTP, FTPS, SFTP and MTP devices.
